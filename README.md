@@ -13,7 +13,7 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 달력을 js 에서 동적으로 생성하여 출력한다.
 
 
-<img alt="index.html" width="500" src="https://github.com/sailer10/my-calender/assets/80940663/23f5f40c-7058-4dd0-a9d6-96b3fe16e909">
+<img alt="index.html" width="500" src="https://github.com/sailer10/my-calender/assets/80940663/a4002c6b-e9aa-4f63-af35-f0ac741e9b6e">
 
 
 ### schedule.html
@@ -21,4 +21,5 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 index 페이지에서 선택한 날짜에 해당하는 일정들을 보여준다.
 
 
-<img alt="schedule.html" width="500" src="https://github.com/sailer10/my-calender/assets/80940663/ffd1d898-6079-43af-9c7e-fdde2d1c19b9">
+<img alt="schedule.html" width="500" src="https://github.com/sailer10/my-calender/assets/80940663/1e80add9-82c5-422b-b0cf-1c73b5299450">
+
