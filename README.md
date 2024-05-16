@@ -19,3 +19,6 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 ### schedule.html
 #### 일정 페이지
 index 페이지에서 선택한 날짜에 해당하는 일정들을 보여준다.
+
+
+<img alt="schedule.html" width="500" src="https://github.com/sailer10/my-calender/assets/80940663/ffd1d898-6079-43af-9c7e-fdde2d1c19b9">
