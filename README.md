@@ -1,8 +1,10 @@
 # Web Calendar Project
 일정 기록 웹앱
 
+
 ## 프로젝트 목표
 Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 개발한다.
+
 
 ## 프로젝트 구조
 
