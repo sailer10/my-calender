@@ -16,7 +16,7 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 <img alt="index.html" width="900" src="https://github.com/sailer10/my-calender/assets/80940663/a4002c6b-e9aa-4f63-af35-f0ac741e9b6e">
 
 
-설명
+* 위 이미지에서 빨간 테두리가 쳐진 부분은 오늘날짜에 해당하는 날짜이다.
 
 ### schedule.html
 #### 일정 페이지
