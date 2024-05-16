@@ -1,0 +1,30 @@
+spring:
+  output:
+    ansi:
+      enabled: always # console ? colorize
+  jpa:
+    # 전송 쿼리 확인
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    # 테이블 생성 후에 data.sql 실행
+    defer-datasource-initialization: true
+  datasource:
+    driver-class-name: org.h2.Driver # Database 는 H2를 사용한다
+    url: jdbc:h2:mem:testdb #jdbc:h2:~./testdb  # localhost:8084/h2-console 인 메모리 JDBC URL
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true # H2 console ? ???? ??
+      path: /h2-console #h2-console ? path
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+  thymeleaf:
+    cache: false
+server:
+  port: 9094
