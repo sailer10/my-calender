@@ -11,6 +11,8 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 ### index.html
 #### 인덱스 페이지
 달력을 js 에서 동적으로 생성하여 출력한다.
+https://github.com/sailer10/my-calender/issues/1#issue-2300303192
+
 
 ### schedule.html
 #### 일정 페이지
