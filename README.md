@@ -6,7 +6,7 @@
 Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 개발한다.
 
 
-## 프로젝트 구조
+## 페이지 구조
 
 ### index.html
 #### 인덱스 페이지
