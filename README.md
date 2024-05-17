@@ -17,7 +17,7 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 
 ### Back-end
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
+H2-Database
 
 
 
