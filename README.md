@@ -29,7 +29,7 @@ H2-Database
 <img alt="index.html" width="700" src="https://github.com/sailer10/my-calender/assets/80940663/a4002c6b-e9aa-4f63-af35-f0ac741e9b6e">
 
 
-* 위 이미지에서 빨간 테두리가 쳐진 부분은 오늘날짜에 해당하는 날짜이다.
+* 위 이미지에서 빨간 테두리가 쳐진 부분은 오늘 날짜에 해당한다.
 * 목표가 2개를 넘어가면 아래에 빨간색으로 추가 목표가 몇개나 더 있는지 표시하도록 하였다.
 
 
