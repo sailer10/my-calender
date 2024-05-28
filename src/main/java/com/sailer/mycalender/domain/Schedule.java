@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 @Entity
 @Getter
-@Table(name = "Schedule")
+@Table(name = "schedule")
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Schedule {
 
