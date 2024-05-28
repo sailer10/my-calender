@@ -1,20 +1,14 @@
 package com.sailer.mycalender.domain;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.databind.annotation.JsonNaming;
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.annotations.ColumnDefault;
-import org.springframework.cglib.core.Local;
 import org.springframework.data.annotation.CreatedDate;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.List;
 
 @Entity
 @Getter
-@Table(name = "Schedule")
+@Table(name = "schedule")
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Schedule {
 
