@@ -35,6 +35,7 @@ Spring boot, thymeleaf template engine 을 이용해 간단한 일정 웹앱을 
 
 ### 일정 페이지
 index 페이지에서 선택한 날짜에 해당하는 일정들을 보여준다.
+* 목표를 새로 생성하거나 삭제하거나 완료버튼을 누르면 fetch를 통해 서버에 반영한다.
 
 
 <img alt="schedule.html" width="700" src="https://github.com/sailer10/my-calender/assets/80940663/1e80add9-82c5-422b-b0cf-1c73b5299450">
