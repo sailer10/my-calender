@@ -29,6 +29,7 @@ public class CalViewController {
         return CAL.IDX;
     }
 
+    // todo: @RequestParam 3번쓰기 -> @ModelAttribute LocalDate date 로 바꾸기
     @GetMapping(CAL.SCHEDULE)
     public String getSchedules(@RequestParam(name = "year", required = false) String year,
                                @RequestParam(name = "month", required = false) String month,
